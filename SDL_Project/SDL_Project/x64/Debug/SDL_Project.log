@@ -1,0 +1,41 @@
+﻿  Affine.cpp
+  Camera.cpp
+  Clip.cpp
+  DrawFrame.cpp
+C:\Users\user\Documents\GitHub\CG1-Project\SDL_Project\SDL_Project\DrawFrame.cpp(52,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\user\Documents\GitHub\CG1-Project\SDL_Project\SDL_Project\DrawFrame.cpp(75,62): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\user\Documents\GitHub\CG1-Project\SDL_Project\SDL_Project\DrawFrame.cpp(75,107): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\user\Documents\GitHub\CG1-Project\SDL_Project\SDL_Project\DrawFrame.cpp(75,89): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\user\Documents\GitHub\CG1-Project\SDL_Project\SDL_Project\DrawFrame.cpp(75,135): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\user\Documents\GitHub\CG1-Project\SDL_Project\SDL_Project\DrawFrame.cpp(106,45): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\user\Documents\GitHub\CG1-Project\SDL_Project\SDL_Project\DrawFrame.cpp(106,40): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\user\Documents\GitHub\CG1-Project\SDL_Project\SDL_Project\DrawFrame.cpp(106,35): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\user\Documents\GitHub\CG1-Project\SDL_Project\SDL_Project\DrawFrame.cpp(106,30): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\user\Documents\GitHub\CG1-Project\SDL_Project\SDL_Project\DrawFrame.cpp(302,57): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\user\Documents\GitHub\CG1-Project\SDL_Project\SDL_Project\DrawFrame.cpp(302,52): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\user\Documents\GitHub\CG1-Project\SDL_Project\SDL_Project\DrawFrame.cpp(302,47): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\user\Documents\GitHub\CG1-Project\SDL_Project\SDL_Project\DrawFrame.cpp(302,42): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\user\Documents\GitHub\CG1-Project\SDL_Project\SDL_Project\DrawFrame.cpp(312,57): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\user\Documents\GitHub\CG1-Project\SDL_Project\SDL_Project\DrawFrame.cpp(312,52): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\user\Documents\GitHub\CG1-Project\SDL_Project\SDL_Project\DrawFrame.cpp(312,47): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\user\Documents\GitHub\CG1-Project\SDL_Project\SDL_Project\DrawFrame.cpp(312,42): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\user\Documents\GitHub\CG1-Project\SDL_Project\SDL_Project\DrawFrame.cpp(345,68): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\user\Documents\GitHub\CG1-Project\SDL_Project\SDL_Project\DrawFrame.cpp(345,50): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\user\Documents\GitHub\CG1-Project\SDL_Project\SDL_Project\DrawFrame.cpp(345,112): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\user\Documents\GitHub\CG1-Project\SDL_Project\SDL_Project\DrawFrame.cpp(345,94): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\user\Documents\GitHub\CG1-Project\SDL_Project\SDL_Project\DrawFrame.cpp(351,42): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\user\Documents\GitHub\CG1-Project\SDL_Project\SDL_Project\DrawFrame.cpp(360,70): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\user\Documents\GitHub\CG1-Project\SDL_Project\SDL_Project\DrawFrame.cpp(382,153): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\user\Documents\GitHub\CG1-Project\SDL_Project\SDL_Project\DrawFrame.cpp(382,122): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\user\Documents\GitHub\CG1-Project\SDL_Project\SDL_Project\DrawFrame.cpp(382,91): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\user\Documents\GitHub\CG1-Project\SDL_Project\SDL_Project\DrawFrame.cpp(382,60): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  DrawLineMIdpoint.cpp
+  DT284_Final.cpp
+  FillTriangle.cpp
+  HalfPlane.cpp
+  MyMesh.cpp
+  RasterUtilities.cpp
+  SquareMesh.cpp
+  Generating Code...
+C:\Users\user\Documents\GitHub\CG1-Project\SDL_Project\SDL_Project\HalfPlane.cpp(28): warning C4715: 'HalfPlane': not all control paths return a value
+  SDL_Project.vcxproj -> C:\Users\user\Documents\GitHub\CG1-Project\SDL_Project\x64\Debug\SDL_Project.exe
